@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">comp3000</string>
+    <string name="go_phish">Go Phish</string>
+    <string name="app_desc">Phishing detection game</string>
+    <string name="play">Play</string>
+    <string name="tutorial_n_recommended_for_first_time_players">Tutorial \n (recommended for first time players)</string>
+</resources>
